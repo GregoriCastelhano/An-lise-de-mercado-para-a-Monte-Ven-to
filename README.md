@@ -8,4 +8,6 @@ Esses produtos abastecem o mercado convencional e varejo em geral. Estão presen
 
 Foi criada a hipótese de que a Cooperativa quer dar um passo além na sua produção e deseja entrar no mercado de vinhos. Para isso, foi realizada essa análise para entender como a cooperativa poderia lançar no  mercado um vinho que estivesse bem posicionado e que competisse com os outros vinhos já disponíveis no mercado brasileiro e especialmente na região da Serra Gaúcha. Como alternativa foi utilizado como fonte de análise uma importante revista americana de crítica especializada em vinho, a Wine Enthusiast, para entender melhor quais regiões e uvas presentes no Brasil e no mundo são mais bem avaliadas.
 
+## Dados de avaliação
+
 O dataset utilizado foi derivado de uma raspagem de 150 mil avaliações presentes na revista e pode ser encontrado no link: <https://www.kaggle.com/datasets/zynicide/wine-reviews?select=winemag-data_first150k.csv>
