@@ -11,3 +11,20 @@ Foi criada a hipótese de que a Cooperativa quer dar um passo além na sua produ
 ## Dados de avaliação
 
 O dataset utilizado foi derivado de uma raspagem de 150 mil avaliações presentes na revista e pode ser encontrado no link: <https://www.kaggle.com/datasets/zynicide/wine-reviews?select=winemag-data_first150k.csv>
+
+Os dados consistem em 10 campos:
+
+- Country: País que o vinhos foi produzido
+- Descripition: Descritivo do sommelier sobre alguns aspectos relativo ao vinho como aroma, sabor e aparência
+- Designation: A vinha de onde as uvas são provenientes e que deram origem ao vinho
+- Pontuação: O número de pontos que o WineEnthusiast classificou o vinho em uma escala de 1 a 100
+- Preço: O preço de venda de uma garrafa do vinho em dólares
+- Province: Estado ou região que o vinho foi produzido
+- Region_1: Região ainda mais específica onde o vinho foi produzido
+- Region_2: Idem Region_1
+- Variety: Variedade da uva utilizada na fabricação do vinho (ex: Syrah)
+- Winnery: A vinícola que fabricou o vinho
+
+## Limitações da análise
+
+Há o reconhecimento de que o dataset utilizado para a análise não abarca de modo amplo questões relativas as decisões de negócios para o lançamento de um novo produto, porém o objetivo aqui é fornecer possíveis ideias e fontes alternativas para análises de mercado.
