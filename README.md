@@ -32,4 +32,4 @@ Há o reconhecimento de que o dataset utilizado para a análise não abarca de m
 Se você gostaria de colaborar em um projeto, aprender mais sobre mim ou apenas dizer oi, sinta-se à vontade para entrar em contato comigo usando qualquer um dos canais sociais listados abaixo.
 
 Email: <gregcast@gmail.com>
-LinkedIn: <https://www.linkedin.com/in/gregoricastelhano/>
+| LinkedIn: <https://www.linkedin.com/in/gregoricastelhano/>
